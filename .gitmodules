@@ -1,0 +1,27 @@
+[submodule "krs-infra"]
+	path = krs-infra
+	url = https://github.com/katsuki-ito-10/krs-infra.git
+[submodule "krs-frontend"]
+	path = krs-frontend
+	url = https://github.com/katsuki-ito-10/krs-frontend.git
+[submodule "krs-identity-gw"]
+	path = krs-identity-gw
+	url = https://github.com/katsuki-ito-10/krs-identity-gw.git
+[submodule "krs-user-profile-svc"]
+	path = krs-user-profile-svc
+	url = https://github.com/katsuki-ito-10/krs-user-profile-svc.git
+[submodule "krs-session-scheduling-svc"]
+	path = krs-session-scheduling-svc
+	url = https://github.com/katsuki-ito-10/krs-session-scheduling-svc.git
+[submodule "krs-wallet-ledger-svc"]
+	path = krs-wallet-ledger-svc
+	url = https://github.com/katsuki-ito-10/krs-wallet-ledger-svc.git
+[submodule "krs-notification-svc"]
+	path = krs-notification-svc
+	url = https://github.com/katsuki-ito-10/krs-notification-svc.git
+[submodule "krs-messaging-svc"]
+	path = krs-messaging-svc
+	url = https://github.com/katsuki-ito-10/krs-messaging-svc.git
+[submodule "krs-matching-search-svc"]
+	path = krs-matching-search-svc
+	url = https://github.com/katsuki-ito-10/krs-matching-search-svc.git
