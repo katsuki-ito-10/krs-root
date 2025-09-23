@@ -1,0 +1,18 @@
+{
+  "folders": [
+    { "path": "krs-infra" },
+    { "path": "krs-frontend" },
+    { "path": "krs-identity-gw" },
+    { "path": "krs-user-profile-svc" },
+    { "path": "krs-session-scheduling-svc" },
+    { "path": "krs-wallet-ledger-svc" },
+    { "path": "krs-notification-svc" },
+    { "path": "krs-messaging-svc" },
+    { "path": "krs-matching-search-svc" }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
+  }
+}
