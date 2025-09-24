@@ -13,6 +13,7 @@
   "settings": {
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "java.compile.nullAnalysis.mode": "automatic"
   }
 }
